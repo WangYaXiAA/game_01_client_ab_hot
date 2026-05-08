@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 212138612
+CRC: 3234266399
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aba9e1cd6c835a7deee7257b7fe0f685
+    Hash: 3cfd32e5a337afd899996738b54113d0
   TypeTreeHash:
     serializedVersion: 2
     Hash: bb9b488a3ca39def6ebfad8d631fd3f4
@@ -65,6 +65,7 @@ Dependencies:
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_gameicon.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_itemicon.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_level.unity3d
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/bgpic/ui_common.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/bgpic/ui_level.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/font/notosanshans-regular
   sdf.unity3d
