@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1823362000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a6cab1fa3160366de1bde21fd944d64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Textures/SpritePic/UI_Shop/ui_shop_Item_bg5.png
+- Assets/Project/SpriteAtlas/UI_Shop.spriteatlas
+- Assets/Project/Textures/SpritePic/UI_Shop/ui_shop_Item_Icon.png
+- Assets/Project/Textures/SpritePic/UI_Shop/ui_shop_Item_bg4.png
+- Assets/Project/Textures/SpritePic/UI_Shop/ui_shop_Item_pic2.png
+- Assets/Project/Textures/SpritePic/UI_Shop/ui_shop_Item_bg2.png
+- Assets/Project/Textures/SpritePic/UI_Shop/ui_shop_Item_bg1.png
+- Assets/Project/Textures/SpritePic/UI_Shop/ui_shop_Item_bg3.png
+- Assets/Project/Textures/SpritePic/UI_Shop/ui_shop_Item_pic1.png
+Dependencies: []

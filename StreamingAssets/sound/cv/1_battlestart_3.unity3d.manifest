@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1426189756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5531d9e56bd18b3ce6e735ea6d6a4b57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/sound/cv/1_battlestart_3.ogg
+Dependencies: []

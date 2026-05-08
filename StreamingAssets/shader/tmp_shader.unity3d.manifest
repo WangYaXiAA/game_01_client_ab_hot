@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1754816739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ddfce10dc5625dd593bb8b56d4c1ccd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Shader/TMP/TMP_SDF-Surface-Mobile.shader
+- Assets/Project/Shader/TMP/TMP_Bitmap-Custom-Atlas.shader
+- Assets/Project/Shader/TMP/TMP_SDF-Mobile Masking.shader
+- Assets/Project/Shader/TMP/TMP_Bitmap-Mobile.shader
+- Assets/Project/Shader/TMP/TMP_SDF Overlay.shader
+- Assets/Project/Shader/TMP/TMP_SDF-Mobile Overlay.shader
+- Assets/Project/Shader/TMP/TMP_SDF-Mobile SSD.shader
+- Assets/Project/Shader/TMP/TMP_Bitmap.shader
+- Assets/Project/Shader/TMP/TMP_SDF SSD.shader
+- Assets/Project/Shader/TMP/TMP_SDF.shader
+- Assets/Project/Shader/TMP/TMP_SDF-Mobile.shader
+- Assets/Project/Shader/TMP/TMP_Sprite.shader
+- Assets/Project/Shader/TMP/TMP_SDF-Surface.shader
+Dependencies: []

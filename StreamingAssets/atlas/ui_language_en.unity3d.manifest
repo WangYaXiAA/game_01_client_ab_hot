@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2034177162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca231206b213b7b96656b5586b8cbd22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/SpriteAtlas/UI_Language_EN.spriteatlas
+- Assets/Project/Textures/SpritePic/UI_Language_EN/ui_shop_title.png
+Dependencies: []

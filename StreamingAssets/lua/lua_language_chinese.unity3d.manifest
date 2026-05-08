@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3931830621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47b21bc050a3fd9b4e6cf27acc6bc44e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lua/Language/Chinese/Chinese_Login.lua.bytes
+- Assets/Lua/Language/Chinese/Chinese_Remove.lua.bytes
+- Assets/Lua/Language/Chinese/Chinese_Common.lua.bytes
+- Assets/Lua/Language/Chinese/Chinese_Mail.lua.bytes
+- Assets/Lua/Language/Chinese/Chinese_Level.lua.bytes
+Dependencies: []

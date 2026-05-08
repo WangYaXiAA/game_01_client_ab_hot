@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1692923835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08c1bbed88d448be857532fc29098401
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lua/Config/T_levelMapConfig.lua.bytes
+- Assets/Lua/Config/T_levelConfig.lua.bytes
+- Assets/Lua/Config/T_ItemConfig.lua.bytes
+- Assets/Lua/Config/T_mailConfig.lua.bytes
+Dependencies: []

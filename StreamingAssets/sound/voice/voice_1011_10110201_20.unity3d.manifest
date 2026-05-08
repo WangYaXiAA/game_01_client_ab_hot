@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 788083877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb685ca44d01b85f1a2b1d95365312c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/sound/Voice/Voice_1011_10110201_20.ogg
+Dependencies: []

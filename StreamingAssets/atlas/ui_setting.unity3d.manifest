@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1216711302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17ace145f1a83428addff1a2bdf7a8ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Textures/SpritePic/UI_Setting/ui_setting_btn1.png
+- Assets/Project/Textures/SpritePic/UI_Setting/ui_setting_exchange.png
+- Assets/Project/Textures/SpritePic/UI_Setting/ui_setting_slider_point.png
+- Assets/Project/Textures/SpritePic/UI_Setting/ui_setting_btn_exist.png
+- Assets/Project/Textures/SpritePic/UI_Setting/ui_setting_slider_bg.png
+- Assets/Project/SpriteAtlas/UI_Setting.spriteatlas
+- Assets/Project/Textures/SpritePic/UI_Setting/ui_setting_slider.png
+Dependencies: []

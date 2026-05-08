@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1098204230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 000b635e655f7ea36d49504841ab6fa8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/SpriteAtlas/UI_Email.spriteatlas
+- Assets/Project/Textures/SpritePic/UI_Email/ui_email_null.png
+- Assets/Project/Textures/SpritePic/UI_Email/ui_email_ItemBg.png
+- Assets/Project/Textures/SpritePic/UI_Email/ui_email_ItemRewardIcon.png
+- Assets/Project/Textures/SpritePic/UI_Email/ui_email_ItemMailIcon.png
+Dependencies: []

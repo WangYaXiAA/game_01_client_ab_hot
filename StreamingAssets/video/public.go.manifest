@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 658250343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5497e8206af6fd7abca8d4e6b374b654
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Texiao/Textures/glow_000.png
+Dependencies: []

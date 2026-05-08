@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 807536922
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7bcde159d8314229c0d5d74b2e3643e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lua/Language/English/English_Level.lua.bytes
+- Assets/Lua/Language/English/English_Common.lua.bytes
+- Assets/Lua/Language/English/English_Login.lua.bytes
+- Assets/Lua/Language/English/English_Mail.lua.bytes
+Dependencies: []

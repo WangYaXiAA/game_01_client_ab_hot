@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 393124153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b200d3b817d3094c185e5e58face5a72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d0082ef63b9cdf2197b1ce460683b93
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Fonts/Font_Bold SDF-HalfBlack.mat
+- Assets/Project/Fonts/Font_Bold SDF.asset
+Dependencies:
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/shader/tmp_shader.unity3d

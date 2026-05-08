@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2394032402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 416a1519dd116b3f8ec7ba64cab20a66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/SpriteAtlas/UI_Common.spriteatlas
+- Assets/Project/Textures/SpritePic/UI_Common/item_4.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_btn1.png
+- Assets/Project/Textures/SpritePic/UI_Common/item_1005.png
+- Assets/Project/Textures/SpritePic/UI_Common/16+.png
+- Assets/Project/Textures/SpritePic/UI_Common/item_bg2.png
+- Assets/Project/Textures/SpritePic/UI_Common/toggle_blue.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_rewareItemBg.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_btnBack.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_btnClose.png
+- Assets/Project/Textures/SpritePic/UI_Common/button_close.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_coinBg.png
+- Assets/Project/Textures/SpritePic/UI_Common/item_bg4.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_redPoint.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_btn3.png
+- Assets/Project/Textures/SpritePic/UI_Common/head_frame.png
+- Assets/Project/Textures/SpritePic/UI_Common/baikuang.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_btnBg.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_txtBg.png
+- Assets/Project/Textures/SpritePic/UI_Common/button_menu_switch.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_btn2.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_lock.png
+- Assets/Project/Textures/SpritePic/UI_Common/ui_com_alpha.png
+- Assets/Project/Textures/SpritePic/UI_Common/btn_2.png
+- Assets/Project/Textures/SpritePic/UI_Common/item_bg3.png
+- Assets/Project/Textures/SpritePic/UI_Common/btn_1.png
+- Assets/Project/Textures/SpritePic/UI_Common/item_bg1.png
+Dependencies: []

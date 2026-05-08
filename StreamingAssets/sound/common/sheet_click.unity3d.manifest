@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4246778843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae768c9b993b773a0ee9c3e95b358714
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/sound/common/Sheet_Click.ogg
+Dependencies: []

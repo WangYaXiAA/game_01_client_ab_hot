@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 109021382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56fb87bfcad81d549047ed0213091836
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/sound/BGM/temp.ogg
+Dependencies: []

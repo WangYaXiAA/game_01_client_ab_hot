@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2447352323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d7bf48a011c4485a14fe8b001598c09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Textures/BgPic/UI_Main/ui_main_BomMenuBg.png
+- Assets/Project/Textures/BgPic/UI_Main/ui_main_bg.png
+- Assets/Project/Textures/BgPic/UI_Main/ui_main_TopMask.png
+Dependencies: []

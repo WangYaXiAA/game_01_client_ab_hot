@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 59467115
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: effect_texture_smoke.bytes
+      Dependencies: {}
+    Info_1:
+      Name: plugins
+      Dependencies: {}
+    Info_2:
+      Name: glow_001.tex
+      Dependencies: {}
+    Info_3:
+      Name: start3.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: start2.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: effect_texture_smoke_materials.bytes
+      Dependencies:
+        Dependency_0: effect_texture_smoke.bytes
+    Info_6:
+      Name: ui_uiancientrelics
+      Dependencies: {}
+    Info_7:
+      Name: start.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: fx_textures_ground_materials.unity3d
+      Dependencies:
+        Dependency_0: fx_textures_ground.unity3d
+    Info_9:
+      Name: ui_uiwordboss
+      Dependencies: {}
+    Info_10:
+      Name: public.go
+      Dependencies: {}
+    Info_11:
+      Name: fx_textures_ground.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: effect/mesh/cylinder02.fbx.bytes
+      Dependencies: {}

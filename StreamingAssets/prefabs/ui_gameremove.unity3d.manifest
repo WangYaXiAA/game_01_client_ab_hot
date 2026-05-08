@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3193892137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 710ca105691b6e21bb19599cccf4a780
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e7c72b78184f930b6efc1b24bcfa07ea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ca2d692707033347bb9bc01fb7db3d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Prefabs/UI_GameRemove/ui_gameRemove_Item.prefab
+- Assets/Project/Prefabs/UI_GameRemove/ui_gameRemove.prefab
+Dependencies:
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_common.unity3d
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/bgpic/ui_gameremove.unity3d

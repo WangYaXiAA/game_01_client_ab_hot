@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3444358522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24e7e9453c9066a07611048d064a0c26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/sound/cv/16_win_2.ogg
+Dependencies: []

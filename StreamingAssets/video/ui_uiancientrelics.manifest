@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 726215212
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 852a519e93612c4cf83cd99746006bb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Texiao/Textures/mask_0036.png
+Dependencies: []

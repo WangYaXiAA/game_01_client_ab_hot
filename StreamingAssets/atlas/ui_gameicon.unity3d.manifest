@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2854561682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d3d164692ca23d7f81327087c085ef8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_21.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_6.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_16.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_9.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_14.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_3.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_17.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_5.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_002.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_8.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_12.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_2.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_19.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_22.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_15.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_18.png
+- Assets/Project/SpriteAtlas/UI_GameIcon.spriteatlas
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_24.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_13.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_10.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_26.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_27.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_4.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_25.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_7.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_20.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_001.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_28.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_1.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_23.png
+- Assets/Project/Textures/SpritePic/UI_GameIcon/item_11.png
+Dependencies: []

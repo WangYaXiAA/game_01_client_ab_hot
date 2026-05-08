@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 648272051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 636bc3e380c259b749fbd9a19a52e368
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/sound/story/bgm_story_2.ogg
+Dependencies: []

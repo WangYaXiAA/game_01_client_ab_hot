@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 687740962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b4f004da915875ba3ec7c567b0558a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d0082ef63b9cdf2197b1ce460683b93
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Fonts/Font_Num SDF.asset
+Dependencies:
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/shader/tmp_shader.unity3d

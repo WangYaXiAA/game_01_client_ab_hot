@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 219711698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1ca9b0f233de4f22502b9ac2dd7e6ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Textures/BgPic/UI_Level/ui_level_TopBg.png
+- Assets/Project/Textures/BgPic/UI_Level/ui_level_Title.png
+- Assets/Project/Textures/BgPic/UI_Level/ui_level_ItemBg1.png
+- Assets/Project/Textures/BgPic/UI_Level/ui_level_Bg.png
+- Assets/Project/Textures/BgPic/UI_Level/ui_level_ItemBg2.png
+Dependencies: []
