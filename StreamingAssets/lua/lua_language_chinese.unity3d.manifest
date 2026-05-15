@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3931830621
+CRC: 850013702
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 47b21bc050a3fd9b4e6cf27acc6bc44e
+    Hash: e576a87bc878d5ec06f8463a5343e5e1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -17,5 +17,7 @@ Assets:
 - Assets/Lua/Language/Chinese/Chinese_Remove.lua.bytes
 - Assets/Lua/Language/Chinese/Chinese_Common.lua.bytes
 - Assets/Lua/Language/Chinese/Chinese_Mail.lua.bytes
+- Assets/Lua/Language/Chinese/Chinese_Prop.lua.bytes
+- Assets/Lua/Language/Chinese/Chinese_Shop.lua.bytes
 - Assets/Lua/Language/Chinese/Chinese_Level.lua.bytes
 Dependencies: []

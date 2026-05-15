@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3280016927
+CRC: 195186682
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b95a24d0c42fc2c9193073cc477eaa8
+    Hash: 754c156017da461d5a4bfc591168cf51
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 766dd242976f8593406ab742bffe1aae
+    Hash: 369b4c1ae962675194d39c6c6c312807
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,9 +24,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
@@ -41,9 +45,10 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Project/Prefabs/UI_Shop/ui_shop.prefab
+- Assets/Project/Prefabs/UI_Shop/ui_shop_main.prefab
 Dependencies:
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_common.unity3d
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_itemicon.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_language_cn.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_shop.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/bgpic/ui_shop.unity3d

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2043095741
+CRC: 1089662428
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7120183f4b434f913fe835aa5f1c1850
+    Hash: 67fd23d5fe286bdac4c825bcd52896a8
   TypeTreeHash:
     serializedVersion: 2
     Hash: c4d5dee85f6c263eb0adbea350984ae1
@@ -19,5 +19,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Project/Textures/SpritePic/UI_ItemIcon/ui_ItemIcon_01.png
 - Assets/Project/SpriteAtlas/UI_ItemIcon.spriteatlas
+- Assets/Project/Textures/SpritePic/UI_ItemIcon/ui_ItemIcon_03.png
 - Assets/Project/Textures/SpritePic/UI_ItemIcon/ui_ItemIcon_02.png
 Dependencies: []

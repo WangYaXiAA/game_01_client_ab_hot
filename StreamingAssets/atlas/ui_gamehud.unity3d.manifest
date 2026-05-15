@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1348454795
+CRC: 2007075835
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 387c16a2e754277173c4b0cfee23cc28
+    Hash: 19193070de302ae667c2324f593a348c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c4d5dee85f6c263eb0adbea350984ae1
@@ -17,14 +17,10 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemBg3.png
 - Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemIcon2.png
 - Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemIcon3.png
-- Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemBg1.png
 - Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemIcon5.png
 - Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemIcon4.png
-- Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemBg2.png
-- Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemBg4.png
 - Assets/Project/SpriteAtlas/UI_GameHud.spriteatlas
 - Assets/Project/Textures/SpritePic/UI_GameHud/ui_gamehud_ItemIcon1.png
 Dependencies: []

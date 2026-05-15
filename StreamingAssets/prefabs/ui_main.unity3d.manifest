@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3669062664
+CRC: 2541486572
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3d707954516ad59c71a1ae40de5d9d35
+    Hash: 4c7a995866ab1a4673e8f7a5f903f741
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9d04acfdb991e0f577283fcb430c71e5
@@ -41,7 +41,7 @@ Assets:
 - Assets/Project/Prefabs/UI_Main/ui_main_menu.prefab
 Dependencies:
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_common.unity3d
-- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_gameicon.unity3d
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_itemicon.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_main.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/bgpic/ui_common.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/bgpic/ui_main.unity3d

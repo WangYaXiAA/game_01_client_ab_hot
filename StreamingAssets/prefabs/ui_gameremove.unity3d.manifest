@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2603027972
+CRC: 809884098
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f19569fc1c14f6bb3fe52ac388a16b7e
+    Hash: 38576084c567552503aabba673fef8d9
   TypeTreeHash:
     serializedVersion: 2
     Hash: e7c72b78184f930b6efc1b24bcfa07ea
@@ -43,4 +43,5 @@ Assets:
 - Assets/Project/Prefabs/UI_GameRemove/ui_gameRemove.prefab
 Dependencies:
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_common.unity3d
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_gameremove.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/bgpic/ui_gameremove.unity3d

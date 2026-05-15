@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1692923835
+CRC: 760013668
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 08c1bbed88d448be857532fc29098401
+    Hash: dddae88abac64308172816c17e97f45d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -17,4 +17,5 @@ Assets:
 - Assets/Lua/Config/T_levelConfig.lua.bytes
 - Assets/Lua/Config/T_ItemConfig.lua.bytes
 - Assets/Lua/Config/T_mailConfig.lua.bytes
+- Assets/Lua/Config/T_shopConfig.lua.bytes
 Dependencies: []
