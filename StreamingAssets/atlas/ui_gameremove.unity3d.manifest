@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2914559400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12849c7f8b9588ef2f32f6b989da3005
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Project/Textures/SpritePic/UI_GameRemove/ui_gameRemove_ItemBg3.png
+- Assets/Project/Textures/SpritePic/UI_GameRemove/ui_gameRemove_ItemBg1.png
+- Assets/Project/Textures/SpritePic/UI_GameRemove/ui_gameRemove_ItemBg2.png
+- Assets/Project/Textures/SpritePic/UI_GameRemove/ui_gameRemove_ItemBg4.png
+- Assets/Project/SpriteAtlas/UI_GameRemove.spriteatlas
+Dependencies: []
