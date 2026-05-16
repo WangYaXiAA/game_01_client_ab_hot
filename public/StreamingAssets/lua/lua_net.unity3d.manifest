@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2975993083
+CRC: 667855304
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1f440d121215d74b2a94ad5b2c149399
+    Hash: af7194b0ffe79434c1048ca8f303b1a1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -17,6 +17,7 @@ Assets:
 - Assets/Lua/Net/MailResponse.lua.bytes
 - Assets/Lua/Net/event.lua.bytes
 - Assets/Lua/Net/LoginResponse.lua.bytes
+- Assets/Lua/Net/KickResponse.lua.bytes
 - Assets/Lua/Net/systemevent.lua.bytes
 - Assets/Lua/Net/ShopListResponse.lua.bytes
 - Assets/Lua/Net/RemoveResponse.lua.bytes
