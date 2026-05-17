@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3786264525
+CRC: 725169081
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -283,11 +283,17 @@ AssetBundleManifest:
         Dependency_6: bgpic/ui_level.unity3d
         Dependency_7: prefabs/ui_common.unity3d
     Info_83:
-      Name: prefabs/ui_login.unity3d
+      Name: prefabs/ui_loading.unity3d
       Dependencies:
         Dependency_0: atlas/ui_common.unity3d
         Dependency_1: font/notosanshans-regular sdf.unity3d
     Info_84:
+      Name: prefabs/ui_login.unity3d
+      Dependencies:
+        Dependency_0: atlas/ui_common.unity3d
+        Dependency_1: font/notosanshans-regular sdf.unity3d
+        Dependency_2: bgpic/ui_common.unity3d
+    Info_85:
       Name: prefabs/ui_main.unity3d
       Dependencies:
         Dependency_0: atlas/ui_common.unity3d
@@ -296,13 +302,13 @@ AssetBundleManifest:
         Dependency_3: font/notosanshans-regular sdf.unity3d
         Dependency_4: bgpic/ui_common.unity3d
         Dependency_5: bgpic/ui_main.unity3d
-    Info_85:
+    Info_86:
       Name: prefabs/ui_setting.unity3d
       Dependencies:
         Dependency_0: atlas/ui_common.unity3d
         Dependency_1: font/notosanshans-regular sdf.unity3d
         Dependency_2: bgpic/ui_common.unity3d
-    Info_86:
+    Info_87:
       Name: prefabs/ui_shop.unity3d
       Dependencies:
         Dependency_0: atlas/ui_common.unity3d

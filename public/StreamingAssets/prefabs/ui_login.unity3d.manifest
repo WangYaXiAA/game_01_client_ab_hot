@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2718276850
+CRC: 4175686992
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5421206334733c764d83384410481320
+    Hash: 00ff214be4d631db806f3391017d237b
   TypeTreeHash:
     serializedVersion: 2
     Hash: afb7eb56cd4f948b983490ac393756a9
@@ -56,5 +56,6 @@ Assets:
 - Assets/Project/Prefabs/UI_Login/ui_login.prefab
 Dependencies:
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/atlas/ui_common.unity3d
+- D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/bgpic/ui_common.unity3d
 - D:/Git_Hub_Project/Game_01_Client/game_client/Assets/StreamingAssets/font/notosanshans-regular
   sdf.unity3d
